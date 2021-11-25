@@ -14,7 +14,7 @@ function start_page($title)
 <op1>
 
 </op1>
-
+echo '.'
 <op2>
 
 </op2>
