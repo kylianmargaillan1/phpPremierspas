@@ -16,7 +16,7 @@
         ?>
 </body>
 <footer>
-    <title> <?php echo  $title; ?> </title>
+    <title> <?php echo "rayaya",  $title; ?> </title>
 </footer>
     }
 <?php } ?>
