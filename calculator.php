@@ -1,5 +1,6 @@
 <?php
-function start_page($title)
+
+function start_page($title = 'calculator')
 {
 ?><!DOCTYPE html>
 <html lang  ="fr">
