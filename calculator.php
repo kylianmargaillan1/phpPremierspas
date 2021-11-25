@@ -1,22 +1,22 @@
 <?php
 
-function start_page($title = 'calculator')
+function start_page($titre = 'calculator')
 {
 ?><!DOCTYPE html>
 <html lang  ="fr">
 <head>
-    <title><?php echo  $title; ?></title>
+    <title><?php echo $titre ; ?></title>
 </head><body>
 <?php
 }
 ?>
 <hr/><br/><strong>Test</strong><br/><hr/>
 <?php
-function end_page($title) {
+function end_page($titre) {
 ?>
 </body>
 <footer>
-   <?php echo $title; ?>
+   <?php echo $titre; ?>
 </footer>
 }
 <?php } ?>
