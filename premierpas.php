@@ -1,6 +1,6 @@
 <?php
 
-    function start_page($title)
+    function start_page($title = "teeeest")
     {
 ?><!DOCTYPE html>
 <html lang  ="fr">
