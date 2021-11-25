@@ -1,5 +1,5 @@
 <?php
-        $title = "Test";
+
     function start_page($title)
     {
 ?><!DOCTYPE html>
@@ -20,4 +20,3 @@
 </footer>
     }
 <?php } ?>
-
