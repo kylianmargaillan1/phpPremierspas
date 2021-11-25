@@ -16,7 +16,7 @@
         ?>
 </body>
 <footer>
-    <title> <?php echo $title; ?> </title>
+     <?php echo $title; ?>
 </footer>
     }
 <?php } ?>
