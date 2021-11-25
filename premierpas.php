@@ -22,7 +22,7 @@
 <?php } ?>
 <?php
     $jour = date('d/m/Y', strtotime('2021-11-25'));
-echo $jour, "\n";
+echo $jour,'<br/>';
     $jour = date('F d, Y, h:i A');
     echo $jour;
 ?>
