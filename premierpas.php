@@ -21,7 +21,7 @@
     }
 <?php } ?>
 <?php
-    $jour = date('d/m/Y', strtotime('2021-11-25'));
+    $jour = date('d/m/Y', strtotime('Y-11-25'));
     echo $jour."\n" ;
     $jour = date('F d, Y, h:i A');
     echo $jour;
