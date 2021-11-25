@@ -10,7 +10,7 @@
 <?php
     }
 ?>
-<hr/><br/><strong>Test, rayaya</strong><br/><hr/>
+<hr/><br/><strong>Test</strong><br/><hr/>
 <?php
     function end_page($title) {
         ?>
@@ -20,3 +20,7 @@
 </footer>
     }
 <?php } ?>
+<?php
+    $jour = date('d/m/Y', strtotime('2021-11-25'));
+    echo $jour;
+?>
