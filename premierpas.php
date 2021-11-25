@@ -10,13 +10,13 @@
 <?php
     }
 ?>
-<hr/><br/><strong>Test</strong><br/><hr/>
+<hr/><br/><strong>Test, rayaya</strong><br/><hr/>
 <?php
     function end_page($title) {
         ?>
 </body>
 <footer>
-    <title> <?php echo "rayaya",  $title; ?> </title>
+    <title> <?php echo $title; ?> </title>
 </footer>
     }
 <?php } ?>
