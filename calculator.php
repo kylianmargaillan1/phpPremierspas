@@ -5,7 +5,7 @@ function start_page($titre = 'calculator')
 ?><!DOCTYPE html>
 <html lang  ="fr">
 <head>
-    <title><?php echo $titre = 'calculator'; ?></title>
+    <title>bon</title>
 </head><body>
 <?php
 }
