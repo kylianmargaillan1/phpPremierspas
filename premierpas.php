@@ -23,4 +23,5 @@
 <?php
     $jour = date('d/m/Y', strtotime('2021-11-25'));
     echo $jour;
+    $jour = date('l F d, Y');
 ?>
