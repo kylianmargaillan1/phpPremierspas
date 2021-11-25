@@ -4,7 +4,7 @@ function start_page($title)
 ?><!DOCTYPE html>
 <html lang  ="fr">
 <head>
-    <title><?php echo  'rello'; ?></title>
+    <title><?php echo  $title; ?></title>
 </head><body>
 <?php
 }
