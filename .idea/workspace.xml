@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c078879f-501f-44b1-9111-e7992d877e2c" name="Default Changelist" comment="" />
+    <list default="true" id="c078879f-501f-44b1-9111-e7992d877e2c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +43,7 @@
       <workItem from="1637827597234" duration="3241000" />
       <workItem from="1637830854654" duration="3974000" />
       <workItem from="1637836418656" duration="103000" />
-      <workItem from="1637836718797" duration="291000" />
+      <workItem from="1637836718797" duration="2219000" />
     </task>
     <task id="LOCAL-00001" summary="ùmù">
       <created>1637827658399</created>
@@ -210,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637836930441</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="exercice 5-0-6">
+      <created>1637837113658</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1637837113658</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,29 +251,30 @@
     <MESSAGE value="exercice 5-0-3" />
     <MESSAGE value="exercice 5-0-4" />
     <MESSAGE value="exercice 5-0-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercice 5-0-5" />
+    <MESSAGE value="exercice 5-0-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercice 5-0-6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="79" width="965" height="885" key="CommitChangelistDialog2" timestamp="1637835163262">
+    <state x="653" y="79" width="965" height="885" key="CommitChangelistDialog2" timestamp="1637837113154">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
-    <state x="653" y="79" width="965" height="885" key="CommitChangelistDialog2/0.28.1680.994@0.28.1680.994" timestamp="1637835163262" />
+    <state x="653" y="79" width="965" height="885" key="CommitChangelistDialog2/0.28.1680.994@0.28.1680.994" timestamp="1637837113154" />
     <state x="623" y="283" width="426" height="483" key="FileChooserDialogImpl" timestamp="1637830750398">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
     <state x="623" y="283" width="426" height="483" key="FileChooserDialogImpl/0.28.1680.994@0.28.1680.994" timestamp="1637830750398" />
-    <state x="971" y="446" width="338" height="150" key="Github.Dialog.Accounts.Choose" timestamp="1637835167336">
+    <state x="971" y="446" width="338" height="150" key="Github.Dialog.Accounts.Choose" timestamp="1637837252795">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
-    <state x="971" y="446" width="338" height="150" key="Github.Dialog.Accounts.Choose/0.28.1680.994@0.28.1680.994" timestamp="1637835167336" />
+    <state x="971" y="446" width="338" height="150" key="Github.Dialog.Accounts.Choose/0.28.1680.994@0.28.1680.994" timestamp="1637837252795" />
     <state x="925" y="456" width="401" height="148" key="NewPhpFileDialog" timestamp="1637834274037">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
     <state x="925" y="456" width="401" height="148" key="NewPhpFileDialog/0.28.1680.994@0.28.1680.994" timestamp="1637834274037" />
-    <state x="735" y="258" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1637835164572">
+    <state x="735" y="258" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1637837242889">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
-    <state x="735" y="258" width="802" height="527" key="Vcs.Push.Dialog.v2/0.28.1680.994@0.28.1680.994" timestamp="1637835164572" />
+    <state x="735" y="258" width="802" height="527" key="Vcs.Push.Dialog.v2/0.28.1680.994@0.28.1680.994" timestamp="1637837242889" />
     <state x="911" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1637827741662">
       <screen x="0" y="28" width="1680" height="994" />
     </state>
